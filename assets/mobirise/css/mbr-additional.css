@@ -1039,7 +1039,7 @@ a {
 }
 .cid-sgyQiRQVD5 {
   padding-top: 10rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-sgyQiRQVD5 .mbr-section-title DIV {
@@ -4220,47 +4220,6 @@ a {
 .cid-sgsLI8nam0 .media-container-row .mbr-text {
   color: #ffffff;
 }
-.cid-sgsXXJlOje {
-  padding-top: 4rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-sgsXXJlOje img,
-.cid-sgsXXJlOje .item-img {
-  width: 100%;
-}
-.cid-sgsXXJlOje .item:focus,
-.cid-sgsXXJlOje span:focus {
-  outline: none;
-}
-.cid-sgsXXJlOje .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-}
-.cid-sgsXXJlOje .item-wrapper {
-  position: relative;
-  border-radius: 4px;
-  background: #fafafa;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-@media (min-width: 992px) {
-  .cid-sgsXXJlOje .item-wrapper .item-content {
-    padding: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sgsXXJlOje .item-wrapper .item-content {
-    padding: 1rem;
-  }
-}
-.cid-sgsXXJlOje .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-sgsXXJlOje .mbr-section-title {
-  color: #232323;
-}
 .cid-sgs9KTw8RS {
   z-index: 1000;
   width: 100%;
@@ -4613,9 +4572,50 @@ a {
     left: -1rem;
   }
 }
+.cid-sgzHfoC6cT {
+  padding-top: 6rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sgzHfoC6cT img,
+.cid-sgzHfoC6cT .item-img {
+  width: 100%;
+}
+.cid-sgzHfoC6cT .item:focus,
+.cid-sgzHfoC6cT span:focus {
+  outline: none;
+}
+.cid-sgzHfoC6cT .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sgzHfoC6cT .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sgzHfoC6cT .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sgzHfoC6cT .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-sgzHfoC6cT .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sgzHfoC6cT .mbr-section-title {
+  color: #232323;
+}
 .cid-sgsY7fOESH {
-  padding-top: 5rem;
-  padding-bottom: 4rem;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
   background-color: #ffffff;
 }
 .cid-sgsY7fOESH .mbr-section-title {
